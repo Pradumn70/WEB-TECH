@@ -1,0 +1,17 @@
+#div1{
+    background-color: red;
+}
+
+.good{
+    background-color: blue;
+}
+
+section,
+h1,
+article{
+    background-color: yellow;
+}
+
+*{
+    background-color: aqua;
+}

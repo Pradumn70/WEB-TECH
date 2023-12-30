@@ -1,0 +1,77 @@
+/* section{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+
+section div{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin-top: 100px;
+    margin-right: 20px;
+    position: absolute;
+} */
+/* 
+#asid1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+}
+#asid2{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    margin-left: 250px;
+}
+#asid3{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+} */
+
+/* section{
+    width: 50%;
+    height: 100px;
+    background-color:green;
+    /* position: fixed; */
+    /* position: sticky;
+    top: 0px;
+     */
+    
+/* } */
+
+/* a:link{
+    color: hotpink;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: yellow;
+} */
+p::first-line{
+    color: red;
+}
+p::first-letter{
+    color: blue;
+}
+/* p::before{
+    content: "Hi i am Hero😊";
+} */
+
+p::after{
+  content: "Hi i am Hero😊😊";
+}
+p::selection{
+    background-color: green;
+    color: yellow;
+}
+li::marker{
+    color: red;
+}

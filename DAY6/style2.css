@@ -1,0 +1,49 @@
+/* h1{
+    color: rgb(36, 21, 24);
+    text-align: center;
+  /*text-transform: uppercase;*/
+  /* text-transform: lowercase; */
+  /* text-transform: capitalize;*/
+ /* text-shadow: 2px  0px darkblue;
+  /*text-decoration: underline;*/
+  /*text-decoration: overline;*/
+  /* text-decoration: line-through;*/
+  /*text-decoration: underline overline line-through;*/
+  /* letter-spacing: 10px;*/
+  /*word-spacing: -5px;*/
+  /*text-indent: 20px*/
+/*} */
+
+/* h1{
+    border: 2px solid red;
+    height: 50px;
+    width: 120px;
+    text-wrap: nowrap;
+    overflow: scroll ;
+    /*overflow: hidden;*/
+   /* text-overflow: ellipsis;*/
+/*} */
+
+/* div{
+    border: 5px solid brown
+    ;
+    height: 200px;
+    width: 150px;
+    max-height: 400px;
+    max-width: 700px;
+    min-height: 100px;
+    min-width: 100px;
+} */
+
+div{
+    /*height: 90vh;*/
+    width: 97vw;
+    border: 5px solid red;
+    background-image: url("https://source.unsplash.com/1400x1400/?animal,lion");
+    background-repeat: no-repeat;
+    background-size: cover;
+   /* background-size: contain;*/
+   background-position: center;
+   /*font-size: 100px*/;
+   background-attachment: fixed;
+}

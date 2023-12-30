@@ -1,0 +1,27 @@
+div{
+
+    /* margin: 20px; */
+    
+    height: 300px;
+    width: 300px;
+
+    /* border: 40px double red; */
+
+    border-top: 40px dotted red;
+    border-left: 40px solid green;
+    border-right: 40px double blue;
+    border-bottom: 40px groove hotpink;
+
+    /* padding: 50px; */
+
+    padding-left: 30px;
+    padding-top: 50px;
+    color: red;
+    font-size: 100px;
+    padding-bottom: 70px;
+    padding-right: 100px;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 10px;
+    margin-bottom: 90px;
+}

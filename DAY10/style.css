@@ -1,0 +1,29 @@
+h1{
+    font-size: 30px;
+    font-style: italic;
+    color: hsla(128, 66%, 43%, 0.829)
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    /* border: 2px solid blue; */
+    /* background-image: linear-gradient(
+    to right,
+    rgba(255,0,0.201)
+    rgba(0,34,0,.42)
+    rgba(45,87,0,.437)
+    rgba(255,255,0,.666)
+    ),
+    url("https://source.unplash.com/200x200/?nature,tree");
+    
+    background-image: repeating-linear-gradient(); */
+
+    background-image: radial-gradient(
+        ellipse,
+        rgba(213, 187, 187, 0.61),
+        rgba(204, 226, 221, 0.653),
+        rgba(169, 169, 127, 0.631)
+    ),
+    url("https://source.unplash.com/200x200/?nature,sun");
+}
